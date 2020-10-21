@@ -1,0 +1,15 @@
+
+Nequi:
+Este sistema de banca virtual, nos ayudaría a solucionar el requerimiento
+de las compras que deseamos implementar en la app.
+
+Redbus:
+Esta es una aplicacion la cual tiene herramientas que nos ayudaran
+una de ella es la opcion de elegir la silla, los datos del vehiculo,
+horarios y de mas informaciones respecto al viaje, ademas de la compra,
+cancelacion y reservacion de tickets.
+
+
+Uber:
+Esta aplicacion movil nos serviria para la integracion de transportes
+o servicios adicionales de transpote que se ofrecen.
