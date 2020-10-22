@@ -1,0 +1,22 @@
+Requerimientos reunion 21/10/2020 señor adrian
+Proyecto transporte
+
+Aplicaciones separadas: Cliente, Conductor, Administradores.
+
+Cliente: con apariencia de redsocial, chat con personas del mismo viaje, multimedia 
+	(facebook). visualizar experiencias de otras personas, busca experiencia social.
+	
+	
+
+Conductores: boton de sello que permite mandar mensajes de voz (radio telefono)
+	     comunicacion entre conductores, tripulaciones y terminal.
+
+
+Administradores/socios: resultados y estados de vehiculos, tableta de colores, 
+			habilitar/inavilitar. top de mejores buses
+			
+
+terminal: comunicacion con conductores, lector de qr, encomiendas, adecivo de destino
+
+
+Vision = vehiculos que vuelan hasta su destino, como aviones de ultima generacion
