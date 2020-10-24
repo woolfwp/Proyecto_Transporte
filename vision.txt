@@ -1,5 +1,7 @@
 Vison Proyecto Transporte
 
+"vehiculos que vuelan hasta su destino, como aviones de ultima generacion"
+
 Con el desarrollo de este proyecto lo que se busca es la innovacion y evolucion. 
 con estos dos campos se obtendra una ventaja en el mercado de transportes,
 ademas de brindarle el servicio adecuado y el cual merecen nuestros clientes.

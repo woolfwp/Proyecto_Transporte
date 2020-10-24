@@ -19,4 +19,3 @@ Administradores/socios: resultados y estados de vehiculos, tableta de colores,
 terminal: comunicacion con conductores, lector de qr, encomiendas, adecivo de destino
 
 
-Vision = vehiculos que vuelan hasta su destino, como aviones de ultima generacion
